@@ -1,2 +1,2 @@
-# REST-in-Pieces-API
-This is an API built to demonstrate the most common security vulnerabilities as well as how to mitigate them.
+# REST in Pieces: An Analysis of Common Vulnerabilities in RESTful APIs
+
