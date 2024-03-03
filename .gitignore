@@ -1,2 +1,6 @@
 notes/*
 .gitignore
+mysql/
+node_modules/
+*.mov
+*.pptx

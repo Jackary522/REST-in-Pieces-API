@@ -1,0 +1,10 @@
+insert into users (username, password, fname, lname)
+values 
+("averageKid1998", "super-secret-pw", "Timmy", "Turner"),
+('spongebob01', 'pineapple123', 'SpongeBob', 'SquarePants'),
+('patrickStar02', 'rockdweller88', 'Patrick', 'Star'),
+('dannyPhantom03', 'ghostly999', 'Danny', 'Phantom'),
+('jimmyNeutron05', 'brainblast', 'Jimmy', 'Neutron'),
+('samuraiJack06', 'timeTravel', 'Samurai', 'Jack'),
+('dexterLab09', 'mandarkRival', 'Dexter', 'Genius'),
+('courageDog11', 'stupidDog', 'Courage', 'Dog');
