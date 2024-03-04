@@ -1,4 +1,4 @@
-import express, { json } from 'express';
+import express from 'express';
 import mysql from 'mysql';
 
 // Create a connection to the database
