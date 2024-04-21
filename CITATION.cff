@@ -1,0 +1,49 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: REST-in-Pieces-API
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jack Hatton
+    email: 10841687@uvu.edu
+repository-code: 'https://github.com/Jackary522/REST-in-Pieces-API'
+abstract: >-
+  Application Programming Interfaces (APIs) are pivotal in
+  the development of modern cloud and web applications,
+  facilitating expansive growth and integration
+  capabilities. However, this ubiquity also introduces a
+  significant array of security threats. This project delves
+  into an analysis of the predominant security
+  vulnerabilities within Representational State Transfer
+  (RESTful) APIs, a method widely adopted due to its
+  simplicity and seamless HTTP integration. Beginning with
+  an overview of RESTful APIs’ structure and principles,
+  this study establishes a foundational understanding
+  necessary for exploring the security vulnerabilities
+  inherent in these systems. Subsequently, the focus shifts
+  to examining the most common security issues as identified
+  by the Open Worldwide Application Security Project (OWASP)
+  in 2021, which include broken access control,
+  cryptographic failures, and various forms of injection
+  attacks, with a special emphasis on insecure design
+  practices. To bridge theory with practice, a custom API
+  developed in JavaScript and executed on Node.js is
+  utilized to illustrate these vulnerabilities through
+  real-world scenarios. Documented and hosted on GitHub,
+  this API not only demonstrates the discussed security
+  flaws but also serves as a practical resource for
+  understanding their impact. Ultimately, this paper aims to
+  enhance awareness of these vulnerabilities, proposing
+  effective mitigation strategies and promoting best
+  practices to secure RESTful APIs against emerging security
+  threats.
+keywords:
+  - Information Security
+  - APIs
+  - Authorization
+  - Authentication
+license: MIT
