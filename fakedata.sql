@@ -1,4 +1,8 @@
 
+create database api_security;
+
+use api_security;
+
 create table users (
     id int auto_increment primary key,
     username varchar(50) not null unique,

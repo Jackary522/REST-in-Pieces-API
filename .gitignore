@@ -4,4 +4,3 @@ mysql/
 node_modules/
 *.mov
 *.pptx
-.env
